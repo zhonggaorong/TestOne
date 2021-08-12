@@ -1,5 +1,5 @@
 PODS:
-  - TestOne (0.1.0)
+  - TestOne (1.0.0)
 
 DEPENDENCIES:
   - TestOne (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TestOne: 79a2f8d3afe4a3487657f74b9aa551de98bcef51
+  TestOne: 6f2afefcab421b061985112d374337f2b01025a3
 
 PODFILE CHECKSUM: f10ad683eb49656ff45b3860b2b8dcd0dc558551
 
