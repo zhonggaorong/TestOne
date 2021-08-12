@@ -2,7 +2,7 @@
   "name": "TestOne",
   "version": "0.1.0",
   "summary": "A short description of TestOne.",
-  "description": "TODO: Add long description of the pod here.",
+  "description": "TODO: Add long description of the pod here.afafafasfsfa",
   "homepage": "https://github.com/zhonggaorong/TestOne",
   "license": {
     "type": "MIT",
@@ -18,10 +18,5 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "TestOne/Classes/**/*",
-  "dependencies": {
-    "AFNetworking": [
-      "~> 2.3"
-    ]
-  }
+  "source_files": "TestOne/Classes/**/*"
 }
